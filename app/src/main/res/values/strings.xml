@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SimonKye-SharedPreferences</string>
+    <string name="reroll">Reroll!</string>
+    <string name="hint">Type in here!</string>
+</resources>
